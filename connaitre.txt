@@ -1,0 +1,43 @@
+useEffect: "useEffect" est un hook de réaction (hook) dans React, 
+  et son fonctionnement reste le même dans le contexte de Next.js. 
+  Il permet d'exécuter du code en réponse à des changements spécifiques, tels que des effets secondaires, 
+  des appels à des API, des mises à jour du DOM, etc. 
+  Vous pouvez l'utiliser dans des composants Next.js de la même manière que dans des composants React standard.
+  
+  head:  "head" peut faire référence à l'élément <head> dans le document HTML. 
+  Dans Next.js, vous pouvez personnaliser le contenu de la balise <head> de chaque page en utilisant la fonction next/head. 
+  Cela vous permet d'ajouter des balises meta, des titres de page, 
+  des feuilles de style et autres éléments personnalisés dans l'en-tête de la page.
+  setPosts:  Si vous utilisez setPosts dans le contexte de Next.js, 
+  cela dépend de la manière dont vous gérez l'état dans vos composants. 
+  Si vous utilisez le hook useState de React, setPosts sera une fonction pour mettre à jour l'état "posts". 
+  Par exemple : const [posts, setPosts] = useState(initialValue);.
+
+map: "map" est une méthode de tableau en JavaScript et fonctionne de la même manière dans Next.js 
+  que dans n'importe quelle autre application JavaScript. Vous pouvez utiliser map pour itérer à travers des tableaux 
+  de données et afficher du contenu basé sur ces données dans vos composants Next.js.
+
+stringify: "stringify" est une méthode de l'objet JSON en JavaScript qui convertit un objet JavaScript en chaîne 
+  de caractères JSON. Elle est utilisée principalement pour le traitement et la manipulation des données JSON.
+
+props: Dans le contexte de Next.js, les propriétés (props) sont utilisées de la même manière que dans React. 
+  Elles permettent de transmettre des données et des paramètres d'un composant parent à un composant enfant, 
+  ce qui facilite la communication entre les différents composants dans votre application.
+
+component: "component" fait référence à un composant React dans Next.js. Dans Next.js, vous pouvez créer des composants comme 
+dans React standard, et les utiliser dans vos pages pour encapsuler la logique et le rendu de l'interface utilisateur.
+
+useState: "useState" est un hook de réaction (hook) dans React, et il est utilisé de la même manière dans Next.js. 
+Vous pouvez l'utiliser pour déclarer un état local dans un composant Next.js de type fonctionnel.
+
+footer: "footer" fait généralement référence à l'élément HTML <footer>, qui est utilisé pour représenter le pied de 
+page d'une page web. Vous pouvez utiliser cet élément HTML de la même manière dans vos composants Next.js pour créer 
+des pieds de page personnalisés pour vos pages.
+
+
+
+Avec qui et comment vais-je travailler au quotidien ?
+
+Quelles sont les qualités et les compétences que vous recherchez pour ce poste ?
+ 
+lamourette97320@gmail.com
